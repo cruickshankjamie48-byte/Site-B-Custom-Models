@@ -8,40 +8,32 @@ _Texturepack is made of models from many people all credits are in JSON file for
 
 
 #### LightSabers:
-
-	_Rename a netherite sword to
-
-		Blue LighSaber
-		Red LighSaber
-		Green LighSaber
-		Purple LighSaber_
+	##### Rename a netherite sword to
+		- Blue LighSaber
+		- Red LighSaber
+		- Green LighSaber
+		- Purple LighSaber
 
 
 #### Ban Hammer:
+	Ban Hammer is a mod only texture for ban hammers given to the mods
 
-	_Ban Hammer is a mod only texture for ban hammers given to the mods_
-
-#### Netherite Axe:
-	
-	_Rename a netherite sword to Black Iron Greataxe_
+#### Netherite Axe
+	Rename a netherite sword to Black Iron Greataxe
 
 #### Shroom Set:
-
-	_Rename any netherite tool to Shroom <item type>_
+	Rename any netherite tool to Shroom <item type>
 
 #### Trident:
-	_Rename a trident to
-	
-		Spear of Longinus_
+	##### Rename a trident to
+	- Spear of Longinus
 
 #### Netherite Sword:
-	_Rename Netherite sword to
-		
-		Orphan Obliterator - technoblade sword_
+	##### Rename Netherite sword to
+		- Orphan Obliterator - technoblade sword
     
 #### Command Staff:
-	
-	_Only Dino can contain its power._
+	Only Dino can contain its power.
 
 
 Food/Drinks
