@@ -60,7 +60,8 @@ _Texturepack is made of models from many people all credits are in JSON file for
 #### Plushies:
 	Rename a totem of undying to
 		- Plushie <insert mob name here> 
-		  #Note all mobs have been added yet pack will be update to include as many as possible there are hidden plushies aswell try pop culture charcters/animals and you might strike lucky
+		  #Note most mobs have been added.
+		  there are hidden plushies aswell try pop culture charcters/animals and you might strike lucky
 		- Plushie bluU pupU - Livi pet chicken
 
 
