@@ -5,8 +5,6 @@ _Texturepack is made of models from many people all credits are in JSON file for
 
 ### Weapons/Tools
 
-
-
 #### LightSabers:
 	Rename a netherite sword to
 		- Blue LighSaber
@@ -18,7 +16,7 @@ _Texturepack is made of models from many people all credits are in JSON file for
 #### Ban Hammer:
 	Ban Hammer is a mod only texture for ban hammers given to the mods
 
-#### Netherite Axe
+#### Netherite Axe:
 	Rename a netherite sword to Black Iron Greataxe
 
 #### Shroom Set:
