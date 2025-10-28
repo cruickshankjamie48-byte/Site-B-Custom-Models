@@ -1,2 +1,2 @@
 # Site B Custom Models
-texturepack is made of models frommany people all credits are in JSONfile for the model
+Texturepack is made of models from many people all credits are in JSON file for the model
