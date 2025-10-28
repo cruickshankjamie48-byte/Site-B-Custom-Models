@@ -26,128 +26,89 @@ Netherite Axe
 
 #### Trident:
 	Rename a trident to
-	- Spear of Longinus
+		- Spear of Longinus
 
 #### Netherite Sword:
 	Rename Netherite sword to
-	- Orphan Obliterator - technoblade sword
+		- Orphan Obliterator - technoblade sword
     
 #### Command Staff:
 	Only Dino can contain its power.
 
 
-Food/Drinks
+### Food/Drinks
 
 
 
-Banana:
-
+#### Banana:
 	Rename a golden carrot to
+		- Banana 🍌
 
-		Banana 🍌
-
-Sky Soup:
-
+#### Sky Soup:
 	Rename a mushroom stew to
-		Sky Soup
+		- Sky Soup
 
-Beer:
-
-	Rename honey bottle to
-		Wheat Beer
-		Haley Beer
-		Barley Beer
-		Hops Beer
-
-Golden Potates:
-	
+#### Golden Potates:
 	Sold by zoliveoyl at Tater Heaven
 
-Beers:
+#### Beers:
 	Sold at The Purple Hydra
 
 
-##################################################################################
-
-##################################################################################
-
-Statues/plushies/pets
+### Statues/plushies/pets
 
 
 
-Plushies:
-
+#### Plushies:
 	Rename a totem of undying to
+		- Plushie <insert mob name here> #Note all mobs have been added yet pack will be update to include as many as possible there are hidden plushies aswell try pop culture charcters/animals and you might strike lucky
+		- Plushie bluU pupU - Livi pet chicken
 
-		Plushie <insert mob name here> #Note all mobs have been added yet pack will be update to include as many as possible there are hidden plushies aswell try pop culture charcters/animals and you might strike lucky
-		Plushie bluU pupU - Livi pet chicken
 
-
-Pets:
-
+#### Pets:
 	Rename Totem of Undying to
-
-		Otter
-		Bruni
-
+		- Otter
+		- Bruni
 
 
-FullSize Player Models:
-
+#### FullSize Player Models:
 	Rename Totem of Undying to
+		- Player Model Herobrine
 
-		Player Model Herobrine
 
-##################################################################################
-
-##################################################################################
-
-Paintings/Artwork
+### Paintings/Artwork
 
 
 
-Paintings:
-
+#### Paintings:
 	Rename a carved pumpkin and name it Painting then any the below paintings
-		
-		Harry Banana
-		Livi Duck
-		Dino
-		TT
-		Techno Pond
-		VV Lighting Strike Pov
-		VV Monochrome Dreams
-		VV RainFall
-		VV Castle In The Hills
-		VV Establishing Shot 1
-
-##################################################################################
-
-##################################################################################
-
-Custom Item Textures
+		- Harry Banana
+		- Livi Duck
+		- Dino
+		- TT
+		- Techno Pond
+		- VV Lighting Strike Pov
+		- VV Monochrome Dreams
+		- VV RainFall
+		- VV Castle In The Hills
+		- VV Establishing Shot 1
 
 
+### Custom Item Textures
 
-Axolotl:
-
+#### Axolotl:
 	Axolotls automatically adjust depedning on the variant
 
 
-Totems:
-
+#### Totems:
 	Rename Totem of Undying to
+		- Jesus <3 to get Jesus to protect you
+		- Tank to get a Tank
+		- Technblade to get Technoblade
 
-		Jesus <3 to get Jesus to protect you
-		Tank to get a Tank
-		Technblade to get Technoblade
-
-
-Smokes:
-	
+#### Smokes:
 	Rename Spyglass to
-
-		Cigar
-		Pipe
+		- Cigar
+		- Pipe
 	
 
