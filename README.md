@@ -15,10 +15,10 @@ _Texturepack is made of models from many people all credits are in JSON file for
 		- Purple LighSaber
 
 
-Ban Hammer:
+#### Ban Hammer:
 	Ban Hammer is a mod only texture for ban hammers given to the mods
 
-Netherite Axe
+#### Netherite Axe
 	Rename a netherite sword to Black Iron Greataxe
 
 #### Shroom Set:
