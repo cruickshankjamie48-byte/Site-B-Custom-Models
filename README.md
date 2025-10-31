@@ -92,6 +92,13 @@ _Texturepack is made of models from many people all credits are in JSON file for
 		- VV Castle In The Hills
 		- VV Establishing Shot 1
 
+### Hats
+	Rename paper to:
+		-Bag For Head
+		-Miin Glasses
+		-Jester Hat
+		-Miin Frog Friend
+		-Fox King Crown
 
 ### Custom Item Textures
 
@@ -113,3 +120,4 @@ _Texturepack is made of models from many people all credits are in JSON file for
 
 #### Bundles:
 	Halloween event 2025 Bundles
+	

@@ -1,0 +1,72 @@
+{
+  "model": {
+    "type": "select",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": {
+          "italic": false,
+          "text": "Scroll of Icarian Flight"
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/misc/scroll_of_icarian_flight"
+        }
+      },
+      {
+        "when": "Bag For Head",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/bag_for_head"
+        }
+      },
+      {
+        "when": "BjornHeim Ticket",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/misc/bjornheim_ticket"
+        }
+      },
+      {
+        "when": "Miin Glasses",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/miin_glasses"
+        }
+      },
+      {
+        "when": "Jester Hat",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/jester_hat"
+        }
+      },
+      {
+        "when": "Miin Frog Friend",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/miin_frog"
+        }
+      },
+      {
+        "when": "Fox King Crown",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/fox_crown"
+        }
+      },
+      {
+        "when": "Bear Concert Guitar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/misc/bear_mega_cool_guitar"
+        }
+      }
+    ],
+    "property": "component",
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/paper"
+    }
+  }
+}

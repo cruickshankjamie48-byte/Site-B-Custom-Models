@@ -616,6 +616,13 @@
             "type": "minecraft:model",
             "model": "item/plushies/plushie_bluu_pupu"
           }
+        },
+        {
+          "when": "Plushie Bear",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/plushies/plushie_bear"
+          }
         }
       ],
       "fallback": {
