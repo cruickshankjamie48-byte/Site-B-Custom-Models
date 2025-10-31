@@ -9,7 +9,7 @@
       "component": "minecraft:custom_name",
       "cases": [
         {
-          "when": "Test 1",
+          "when": "Candy bag",
           "model": {
             "type": "minecraft:model",
             "model": "minecraft:item/bundles/halloween/spider_goodie_bag"

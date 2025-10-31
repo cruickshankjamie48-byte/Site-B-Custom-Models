@@ -1,29 +1,62 @@
 {
+  "oversized_in_gui": true,
   "model": {
-    "type": "minecraft:condition",
-    "property": "minecraft:has_component",
-    "component": "minecraft:custom_name",
-    "on_true": {
-      "type": "minecraft:select",
-      "property": "minecraft:component",
-      "component": "minecraft:custom_name",
+    "type": "select",
+    "component": "custom_name",
+    "cases": [
+      {
+        "when": "Spear of Longinus",
+        "model": {
+          "type": "minecraft:condition",
+          "property": "minecraft:using_item",
+          "on_true": {
+            "type": "minecraft:model",
+            "model": "item/weapons/trident/spear_of_longinus_throwing",
+            "base": "item/weapons/trident/spear_of_longinus_throwing"
+          },
+          "on_false": {
+            "type": "minecraft:model",
+            "model": "item/weapons/trident/spear_of_longinus",
+            "tints": []
+          }
+        }
+      }
+    ],
+    "fallback": {
+      "type": "select",
+      "property": "display_context",
       "cases": [
         {
-          "when": "Spear of Longinus",
+          "when": [
+            "gui",
+            "ground",
+            "fixed"
+          ],
           "model": {
-            "type": "minecraft:model",
-            "model": "item/weapons/trident/spear_of_longinus"
+            "type": "model",
+            "model": "item/trident"
           }
         }
       ],
       "fallback": {
-        "type": "minecraft:model",
-        "model": "minecraft:item/trident"
+        "type": "condition",
+        "property": "using_item",
+        "on_true": {
+          "type": "special",
+          "model": {
+            "type": "trident"
+          },
+          "base": "item/trident_throwing"
+        },
+        "on_false": {
+          "type": "special",
+          "model": {
+            "type": "trident"
+          },
+          "base": "item/trident_in_hand"
+        }
       }
     },
-    "on_false": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/trident"
-    }
+    "property": "component"
   }
 }

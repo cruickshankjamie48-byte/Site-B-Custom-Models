@@ -9,7 +9,7 @@
       "component": "minecraft:custom_name",
       "cases": [
         {
-          "when": "Test 1",
+          "when": "Bag of Tricks",
           "model": {
             "type": "minecraft:model",
             "model": "minecraft:item/bundles/halloween/slime_goodie_bag"

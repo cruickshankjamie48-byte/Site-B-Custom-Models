@@ -9,7 +9,7 @@
       "component": "minecraft:custom_name",
       "cases": [
         {
-          "when": "Test 1",
+          "when": "livi's ghastly treats",
           "model": {
             "type": "minecraft:model",
             "model": "minecraft:item/bundles/halloween/ghast_goodie_bag"
