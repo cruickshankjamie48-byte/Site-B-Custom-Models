@@ -16,7 +16,7 @@ _- Spear of Longinus now face correct way when being thrown_
 
 ### Added
 _- New Halloween Bundles for SiteB Halloween Event 2025_
-_-Pack Icon now has SiteB logo_
+_- Pack Icon now has SiteB logo_
 
 
 ## [V0.2.0] - 2025-11-01
