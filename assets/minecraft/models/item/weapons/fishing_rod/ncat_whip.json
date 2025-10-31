@@ -1,0 +1,7 @@
+{
+	"credit": "Created by DrZharky from MoCreatures",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/weapons/fishing_rod/ncat_whip"
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "Custom Models to make the server more fun",
+      "min_format": [66, 0],
+      "max_format": [69, 0]
+  }	
+}

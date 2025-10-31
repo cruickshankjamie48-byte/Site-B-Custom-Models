@@ -1,0 +1,631 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:has_component",
+    "component": "minecraft:item_name",
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Plushie Allay",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_allay"
+          }
+        },
+        {
+          "when": "Plushie Allay Skull",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_allay_skull"
+          }
+        },
+        {
+          "when": "Plushie Armadillo",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_armadillo"
+          }
+        },
+        {
+          "when": "Plushie Axolotl",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_axolotl"
+          }
+        },
+        {
+          "when": "Plushie Bat",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_bat"
+          }
+        },
+        {
+          "when": "Plushie Bee",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_bee"
+          }
+        },
+        {
+          "when": "Plushie Blaze",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_blaze"
+          }
+        },
+        {
+          "when": "Plushie Breeze",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_breeze"
+          }
+        },
+        {
+          "when": "Plushie Camel",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_camel"
+          }
+        },
+        {
+          "when": "Plushie Cat",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_cat"
+          }
+        },
+        {
+          "when": "Plushie Cave Spider",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_cave_spider"
+          }
+        },
+        {
+          "when": "Plushie Chewie",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_chewie"
+          }
+        },
+        {
+          "when": "Plushie Chicken",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_chicken"
+          }
+        },
+        {
+          "when": "Plushie Cow",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_cow"
+          }
+        },
+        {
+          "when": "Plushie Seal",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_seal"
+          }
+        },
+        {
+          "when": "Plushie Creeper",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_creeper"
+          }
+        },
+        {
+          "when": "Plushie Han Solo",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_dan_rolo"
+          }
+        },
+        {
+          "when": "Plushie Darth Vader",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_dark_father"
+          }
+        },
+        {
+          "when": "Plushie Dolphin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_dolphin"
+          }
+        },
+        {
+          "when": "Plushie Donkey",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_donkey"
+          }
+        },
+        {
+          "when": "Plushie Drowned",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_drowned"
+          }
+        },
+        {
+          "when": "Plushie Elder Guardian",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_elder_guardian"
+          }
+        },
+        {
+          "when": "Plushie Emperor Palpatine",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_emperor"
+          }
+        },
+        {
+          "when": "Plushie Enderdragon",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_enderdragon"
+          }
+        },
+        {
+          "when": "Plushie Enderman",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_enderman"
+          }
+        },
+        {
+          "when": "Plushie Evoker",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_evoker"
+          }
+        },
+        {
+          "when": "Plushie Fox",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_fox"
+          }
+        },
+        {
+          "when": "Plushie frog",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_frog"
+          }
+        },
+        {
+          "when": "Plushie Ghast",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_ghast"
+          }
+        },
+        {
+          "when": "Plushie Glow Squid",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_glow_squid"
+          }
+        },
+        {
+          "when": "Plushie Goat",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_goat"
+          }
+        },
+        {
+          "when": "Plushie Guardian",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_guardian"
+          }
+        },
+        {
+          "when": "Plushie Hoglin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_hoglin"
+          }
+        },
+        {
+          "when": "Plushie Horse",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_horse"
+          }
+        },
+        {
+          "when": "Plushie Husk",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_husk"
+          }
+        },
+        {
+          "when": "Plushie Iron Golem",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_iron_golem"
+          }
+        },
+        {
+          "when": "Plushie Llama",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_llama"
+          }
+        },
+        {
+          "when": "Plushie Magma Cube",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_magma_cube"
+          }
+        },
+        {
+          "when": "Plushie Mooshroom",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_mooshroom"
+          }
+        },
+        {
+          "when": "Plushie Mule",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_mule"
+          }
+        },
+        {
+          "when": "Plushie Panda",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_panda"
+          }
+        },
+        {
+          "when": "Plushie Parrot",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_parrot"
+          }
+        },
+        {
+          "when": "Plushie Peter",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_peter"
+          }
+        },
+        {
+          "when": "Plushie Phantom",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_phantom"
+          }
+        },
+        {
+          "when": "Plushie Pig",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_pig"
+          }
+        },
+        {
+          "when": "Plushie Piglin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_piglin"
+          }
+        },
+        {
+          "when": "Plushie Piglin Brute",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_piglin_brute"
+          }
+        },
+        {
+          "when": "Plushie Pillager",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_pillager"
+          }
+        },
+        {
+          "when": "Plushie Polar Bear",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_polar_bear"
+          }
+        },
+        {
+          "when": "Plushie Pufferfish",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_pufferfish"
+          }
+        },
+        {
+          "when": "Plushie Rabbit",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_rabbit"
+          }
+        },
+        {
+          "when": "Plushie Ravanger",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_ravanger"
+          }
+        },
+        {
+          "when": "Plushie Sheep",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_sheep"
+          }
+        },
+        {
+          "when": "Plushie Shulker",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_shulker"
+          }
+        },
+        {
+          "when": "Plushie Skeleton",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_skeleton"
+          }
+        },
+        {
+          "when": "Plushie Skeleton Horse",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_skeleton_horse"
+          }
+        },
+        {
+          "when": "Plushie Slime",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_slime"
+          }
+        },
+        {
+          "when": "Plushie Sniffer",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_sniffer"
+          }
+        },
+        {
+          "when": "Plushie Spider",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_spider"
+          }
+        },
+        {
+          "when": "Plushie Squid",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_squid"
+          }
+        },
+        {
+          "when": "Plushie Stormtrooper",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_storm_soldier"
+          }
+        },
+        {
+          "when": "Plushie Stray",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_stray"
+          }
+        },
+        {
+          "when": "Plushie Strider",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_strider"
+          }
+        },
+        {
+          "when": "Plushie Trader Llama",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_trader_lama"
+          }
+        },
+        {
+          "when": "Plushie Turtle",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_turtle"
+          }
+        },
+        {
+          "when": "Plushie Vex",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_vex"
+          }
+        },
+        {
+          "when": "Plushie Villager",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_villager"
+          }
+        },
+        {
+          "when": "Plushie Vindicator",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_vindicator"
+          }
+        },
+        {
+          "when": "Plushie Wandering Trader",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_wandering_trader"
+          }
+        },
+        {
+          "when": "Plushie Warden",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_warden"
+          }
+        },
+        {
+          "when": "Plushie Witch",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_witch"
+          }
+        },
+        {
+          "when": "Plushie Wither",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_wither"
+          }
+        },
+        {
+          "when": "Plushie Wither Skeleton",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_wither_skeleton"
+          }
+        },
+        {
+          "when": "Plushie Wolf",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_wolf"
+          }
+        },
+        {
+          "when": "Plushie Yoda",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_yoga"
+          }
+        },
+        {
+          "when": "Plushie Zoglin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_zoglin"
+          }
+        },
+        {
+          "when": "Plushie Zombie",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_zombie"
+          }
+        },
+        {
+          "when": "Plushie Zombie Villager",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_zombie_villager"
+          }
+        },
+        {
+          "when": "Plushie Zombified Piglin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/plushies/plushie_zombified_piglin"
+          }
+        },
+        {
+          "when": "Jesus <3",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/totem/jesus"
+          }
+        },
+        {
+          "when": "Otter",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/pets/otter/otter"
+          }
+        },
+        {
+          "when": "Player Model Herobrine",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/players/fullsize/herobrine"
+          }
+        },
+        {
+          "when": "Bruni",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/pets/bruni/bruni"
+          }
+        },
+        {
+          "when": "Costume The Empty Man",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/costumes/the_empty_man"
+          }
+        },
+        {
+          "when": "Tank",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/totem/tank"
+          }
+        },
+        {
+          "when": "Technoblade",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/totem/technoblade"
+          }
+        },
+        {
+          "when": "Plushie bluU pupU",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/plushies/plushie_bluu_pupu"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/totem_of_undying"
+      }
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/totem_of_undying"
+    }
+  }
+}

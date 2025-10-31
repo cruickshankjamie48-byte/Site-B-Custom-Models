@@ -1,0 +1,7 @@
+{
+  "credit": "Created by EiiStar from Technofault",
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "minecraft:item/totem/technoblade"
+  }
+}

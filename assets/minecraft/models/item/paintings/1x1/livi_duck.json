@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made by FropDrop",
+	"parent": "item/paintings/1x1/template/1x1_painting_template",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "item/paintings/1x1/livi_duck",
+		"particle": "item/paintings/1x1/livi_duck"
+	}
+}

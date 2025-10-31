@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/paintings/1x2/template/1x2_painting_template",
+	"texture_size": [256, 256],
+	"textures": {
+		"0": "item/paintings/1x2/dino_painting",
+		"particle": "item/paintings/1x2/dino_painting"
+	}
+}

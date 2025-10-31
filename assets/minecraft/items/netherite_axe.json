@@ -1,0 +1,36 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:has_component",
+    "component": "minecraft:item_name",
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Black Iron Greataxe",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/netherite_axe/black_iron_greataxe"
+          }
+        },
+        {
+          "when": "Shroom Axe",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/shroom_set/shroom_axe"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/netherite_axe"
+      }
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_axe"
+    }
+  }
+}

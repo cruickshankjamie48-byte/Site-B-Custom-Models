@@ -1,0 +1,43 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:has_component",
+    "component": "minecraft:custom_name",
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Cigar",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/smokes/sigar"
+          }
+        },
+        {
+          "when": "Pipe",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/smokes/trubka"
+          }
+        },
+        {
+          "when": "Ekima Cigar",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/smokes/sigar_ekima"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/spyglass"
+      }
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/spyglass"
+    }
+  }
+}

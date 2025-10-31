@@ -1,0 +1,7 @@
+{
+  "credit": "Created by 3aTTpeTka from Totem TURMS-T",
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/totem/tank"
+  }
+}

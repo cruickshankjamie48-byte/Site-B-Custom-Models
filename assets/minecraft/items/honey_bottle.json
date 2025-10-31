@@ -1,0 +1,50 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:has_component",
+    "component": "minecraft:custom_name",
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Hops Beer",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/food/drinks/beer_hops"
+          }
+        },
+        {
+          "when": "Barley Beer",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/food/drinks/beer_barley"
+          }
+        },
+        {
+          "when": "Haley Beer",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/food/drinks/beer_haley"
+          }
+        },
+        {
+          "when": "Wheat Beer",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/food/drinks/beer_wheat"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/honey_bottle"
+      }
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/honey_bottle"
+    }
+  }
+}
