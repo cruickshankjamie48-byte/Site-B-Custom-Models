@@ -120,4 +120,6 @@ _Texturepack is made of models from many people all credits are in JSON file for
 
 #### Bundles:
 	Halloween event 2025 Bundles
-	
+
+#### Misc:
+	Scroll of Icarian Flight

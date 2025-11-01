@@ -29,3 +29,4 @@ _- Miin Glasses made by Bruno_
 _- Jester  Hat made by Bruno_
 _- Miin Frog Friend by Bruno_
 _- Bear Concert Guitar by Bruno_
+_- Scroll of Icarian Flight_
