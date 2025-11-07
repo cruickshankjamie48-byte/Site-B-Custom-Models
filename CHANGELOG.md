@@ -31,7 +31,7 @@ _- Pack Icon now has SiteB logo_
 - Bear Concert Guitar by Bruno
 - Scroll of Icarian Flight
 
-## [V0.3.0] -
+## [V0.3.0] - 2025-11-07
 
 ### Added
 - Borger
