@@ -1,0 +1,87 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made by sketchmacaw",
+	"textures": {
+		"0": "item/deco/christmas/green_present/white_ribbon",
+		"1": "item/deco/christmas/green_present/green_present",
+		"3": "item/deco/christmas/green_present/green_present_top"
+	},
+	"elements": [
+		{
+			"from": [4, 0, 4],
+			"to": [12, 8, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [3, 8, 3],
+			"to": [13, 10, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 3], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#3"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [6.87314, 9.96523, 3.75],
+			"to": [12.87314, 9.96523, 12.75],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [6.87314, 10.46523, 8.25]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 9], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [16, 9, 0, 0], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.07314, 10.01523, 3.75],
+			"to": [7.07314, 10.01523, 12.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [6.87314, 10.46523, 8.25]},
+			"faces": {
+				"up": {"uv": [0, 9, 16, 16], "rotation": 90, "texture": "#0"},
+				"down": {"uv": [16, 16, 0, 9], "rotation": 270, "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.48, 0.47, 0.49]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.4, 0.39, 0.41]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"translation": [2, 2, 0],
+			"scale": [0.57, 0.56, 0.55]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -145, 0],
+			"translation": [2, 2, 0],
+			"scale": [0.53, 0.51, 0.48]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.83, 0.83, 0.83]
+		},
+		"gui": {
+			"rotation": [24.5, 47.5, 0],
+			"translation": [0.25, 1.25, 0],
+			"scale": [0.93, 0.93, 0.93]
+		},
+		"head": {
+			"translation": [0, 14.5, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -18],
+			"scale": [2.25, 2.25, 2.25]
+		}
+	}
+}

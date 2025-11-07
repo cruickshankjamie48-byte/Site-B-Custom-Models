@@ -22,6 +22,27 @@
             "type": "minecraft:model",
             "model": "minecraft:item/food/golden_potato"
           }
+        },
+        {
+          "when": "Borger",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/food/borger"
+          }
+        },
+        {
+          "when": "Hotdog",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/food/hotdog"
+          }
+        },
+        {
+          "when": "Candy Cane",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/food/candy_cane"
+          }
         }
       ],
       "fallback": {

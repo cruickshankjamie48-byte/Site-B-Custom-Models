@@ -61,6 +61,13 @@
           "type": "minecraft:model",
           "model": "item/misc/bear_mega_cool_guitar"
         }
+      },
+      {
+        "when": "Snowman With Pan",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/deco/christmas/snowman_with_pan"
+        }
       }
     ],
     "property": "component",

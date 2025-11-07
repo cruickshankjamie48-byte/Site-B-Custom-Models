@@ -6,18 +6,29 @@
     "on_true": {
       "type": "minecraft:select",
       "property": "minecraft:component",
-      "component": "minecraft:enchantments",
+      "component": "minecraft:custom_name",
       "cases": [
         {
           "when": {
-            "minecraft:wind_burst": 10,
-            "minecraft:density": 10,
-            "minecraft:unbreaking": 10,
-            "minecraft:mending": 1
+            "text": "",
+            "extra": [
+              {
+                "text": "☠ Ban Hammer",
+                "color": "red",
+                "italic": false
+              }
+            ]
           },
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/weapons/mace/ban_hammer"
+            "model": "item/weapons/mace/ban_hammer"
+          }
+        },
+        {
+          "when": "Mjolnir",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/weapons/mace/mjolnir"
           }
         }
       ],

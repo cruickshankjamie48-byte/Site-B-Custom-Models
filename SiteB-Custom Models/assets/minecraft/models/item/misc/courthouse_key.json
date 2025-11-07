@@ -1,0 +1,7 @@
+{
+	"credit": "Created by SolariumYT",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/misc/courthouse_key"
+	}
+}

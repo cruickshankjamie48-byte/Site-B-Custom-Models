@@ -1,0 +1,50 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Tiny Wrench",
+        "model": {
+          "type": "minecraft:select",
+          "model": "item/misc/wrench",
+          "property": "minecraft:component",
+          "component": "minecraft:attribute_modifiers",
+          "cases": [
+            {
+              "when": [
+                {
+                  "type": "minecraft:scale",
+                  "id": "minecraft:scale",
+                  "amount": -0.5,
+                  "operation": "add_multiplied_base",
+                  "slot": "offhand"
+                }
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "item/misc/wrench"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/gold_nugget"
+          }
+        }
+      },
+      {
+        "when": "Jesus <3",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/totem/jesus"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/gold_nugget"
+    }
+  }
+}

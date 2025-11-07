@@ -14,6 +14,13 @@
             "type": "minecraft:model",
             "model": "minecraft:item/bundles/halloween/phantom_goodie_bag"
           }
+        },
+        {
+          "when": "Blue Present",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/deco/christmas/blue_present"
+          }
         }
       ],
       "fallback": {

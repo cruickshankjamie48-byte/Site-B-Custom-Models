@@ -623,6 +623,13 @@
             "type": "minecraft:model",
             "model": "item/plushies/plushie_bear"
           }
+        },
+        {
+          "when": "Plushie Copper Golem Standing",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/plushies/plushie_copper_golem_standing"
+          }
         }
       ],
       "fallback": {
