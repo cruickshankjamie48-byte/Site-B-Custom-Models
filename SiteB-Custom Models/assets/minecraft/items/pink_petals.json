@@ -1,0 +1,53 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:has_component",
+    "component": "minecraft:item_name",
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Love from livi",
+          "model": {
+            "type": "minecraft:select",
+            "property": "minecraft:component",
+            "component": "minecraft:lore",
+            "cases": [
+              {
+                "when": [
+                  {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "livi may follow u around now :3✨",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ],
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/misc/livi_heart"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/pink_petals"
+            }
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/pink_petals"
+      }
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/pink_petals"
+    }
+  }
+}

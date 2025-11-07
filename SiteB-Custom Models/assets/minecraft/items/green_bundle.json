@@ -14,6 +14,13 @@
             "type": "minecraft:model",
             "model": "minecraft:item/bundles/halloween/creeper_goodie_bag"
           }
+        },
+        {
+          "when": "Green Present",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/deco/christmas/green_present"
+          }
         }
       ],
       "fallback": {

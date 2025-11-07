@@ -1,4 +1,4 @@
-# Site B Custom Models
+# Site B Custom Models Beta
 _Texturepack is made of models from many people all credits are in JSON file for the model_
 
 ## How to get
@@ -17,7 +17,10 @@ _Texturepack is made of models from many people all credits are in JSON file for
 	Ban Hammer is a mod only texture for ban hammers given to the mods
 
 #### Netherite Axe:
-	Rename a netherite sword to Black Iron Greataxe
+	Rename a netherite axe to 
+	- Black Iron Greataxe
+	- Leviathan
+
 
 #### Shroom Set:
 	Rename any netherite tool to Shroom <item type>
@@ -29,9 +32,14 @@ _Texturepack is made of models from many people all credits are in JSON file for
 #### Netherite Sword:
 	Rename Netherite sword to
 		- Orphan Obliterator - technoblade sword
+		- Bebra - Berserk sword
     
 #### Command Staff:
 	Only Dino can contain its power.
+
+#### Mace:
+	Rename Mace to:
+		- Mjolnir
 
 
 ### Food/Drinks
@@ -51,6 +59,14 @@ _Texturepack is made of models from many people all credits are in JSON file for
 
 #### Beers:
 	Sold at The Purple Hydra
+
+#### Hotdogs:
+	Rename golden carrot to
+		-Hotdog
+
+#### Burger:
+	Rename golden carror to
+		-Borger
 
 
 ### Statues/plushies/pets
@@ -91,6 +107,7 @@ _Texturepack is made of models from many people all credits are in JSON file for
 		- VV RainFall
 		- VV Castle In The Hills
 		- VV Establishing Shot 1
+		- Dino Bathwater
 
 ### Hats
 	Rename paper to:
@@ -123,3 +140,4 @@ _Texturepack is made of models from many people all credits are in JSON file for
 
 #### Misc:
 	Scroll of Icarian Flight
+	Livi Hearts (get em from livi)

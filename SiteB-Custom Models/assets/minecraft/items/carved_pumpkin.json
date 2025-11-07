@@ -77,6 +77,13 @@
             "type": "minecraft:model",
             "model": "item/paintings/misc/vandalieu/vv_establishing_shot_1"
           }
+        },
+        {
+          "when": "Painting Dino Bathwater",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/paintings/1x2/dino_painting2"
+          }
         }
       ],
       "fallback": {

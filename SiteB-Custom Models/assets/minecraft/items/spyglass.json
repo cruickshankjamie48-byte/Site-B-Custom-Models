@@ -1,43 +1,63 @@
 {
+  "oversized_in_gui": true,
   "model": {
-    "type": "minecraft:condition",
-    "property": "minecraft:has_component",
-    "component": "minecraft:custom_name",
-    "on_true": {
-      "type": "minecraft:select",
-      "property": "minecraft:component",
-      "component": "minecraft:custom_name",
+    "type": "select",
+    "component": "custom_name",
+    "cases": [
+      {
+        "when": "Cigar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/smokes/sigar",
+          "tints": []
+        }
+      },
+      {
+        "when": "Pipe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/smokes/trubka"
+        }
+      },
+      {
+        "when": "Ekima Cigar",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/smokes/sigar_ekima"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "select",
+      "property": "display_context",
       "cases": [
         {
-          "when": "Cigar",
+          "when": [
+            "gui",
+            "ground",
+            "fixed"
+          ],
           "model": {
-            "type": "minecraft:model",
-            "model": "item/smokes/sigar"
-          }
-        },
-        {
-          "when": "Pipe",
-          "model": {
-            "type": "minecraft:model",
-            "model": "item/smokes/trubka"
-          }
-        },
-        {
-          "when": "Ekima Cigar",
-          "model": {
-            "type": "minecraft:model",
-            "model": "item/smokes/sigar_ekima"
+            "type": "model",
+            "model": "minecraft:item/spyglass"
           }
         }
       ],
       "fallback": {
-        "type": "minecraft:model",
-        "model": "minecraft:item/spyglass"
+        "type": "condition",
+        "property": "using_item",
+        "on_true": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/spyglass_in_hand",
+          "base": "minecraft:item/spyglass_in_hand"
+        },
+        "on_false": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/spyglass_in_hand",
+          "base": "minecraft:item/spyglass_in_hand"
+        }
       }
     },
-    "on_false": {
-      "type": "minecraft:model",
-      "model": "minecraft:item/spyglass"
-    }
+    "property": "component"
   }
 }

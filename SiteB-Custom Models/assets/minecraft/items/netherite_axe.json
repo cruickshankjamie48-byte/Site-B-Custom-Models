@@ -21,6 +21,13 @@
             "type": "minecraft:model",
             "model": "minecraft:item/weapons/shroom_set/shroom_axe"
           }
+        },
+        {
+          "when": "Leviathan",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/weapons/netherite_axe/leviathan"
+          }
         }
       ],
       "fallback": {

@@ -1,0 +1,74 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made by Chomik_Oto",
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"1": "item/plants/3d_brown_mushroom/mushroom_inside",
+		"2": "item/plants/3d_brown_mushroom/brown_mushroom_block",
+		"3": "item/plants/3d_brown_mushroom/mushroom_stem",
+		"particle": "item/plants/3d_brown_mushroom/mushroom_inside",
+		"cross": "item/plants/3d_brown_mushroom/brown_mushroom"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 4, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
+			"faces": {
+				"north": {"uv": [7, 12, 9, 16], "texture": "#3"},
+				"east": {"uv": [9, 12, 7, 16], "texture": "#3"},
+				"south": {"uv": [7, 12, 9, 16], "texture": "#3"},
+				"west": {"uv": [9, 12, 7, 16], "texture": "#3"},
+				"up": {"uv": [7, 12, 9, 14], "texture": "#cross"},
+				"down": {"uv": [7, 14, 9, 16], "texture": "#3"}
+			}
+		},
+		{
+			"from": [4, 4, 4],
+			"to": [12, 7, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 4, 7]},
+			"faces": {
+				"north": {"uv": [4, 9, 12, 12], "texture": "#2"},
+				"east": {"uv": [4, 9, 12, 12], "texture": "#2"},
+				"south": {"uv": [4, 9, 12, 12], "texture": "#2"},
+				"west": {"uv": [4, 9, 12, 12], "texture": "#2"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#2"},
+				"down": {"uv": [4, 4, 12, 12], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 3.25, 0],
+			"scale": [0.46, 0.46, 0.46]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 3.25, 0],
+			"scale": [0.46, 0.46, 0.46]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 5, 0],
+			"scale": [0.71, 0.71, 0.71]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 5, 0],
+			"scale": [0.71, 0.71, 0.71]
+		},
+		"ground": {
+			"translation": [0, 2.25, 0],
+			"scale": [0.61, 0.61, 0.61]
+		},
+		"gui": {
+			"rotation": [15, 30, 0],
+			"translation": [0, 3.75, 0]
+		},
+		"head": {
+			"translation": [0, 14.5, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -11.5],
+			"scale": [1.47, 1.47, 1.47]
+		}
+	}
+}
