@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Strawberry Milk Bucket",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/food/drinks/strawberry_milk_bucket"
+        }
+      },
+      {
+        "when": "Chocolate Milk Bucket",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/food/drinks/chocolate_milk_bucket"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/milk_bucket"
+    }
+  }
+}

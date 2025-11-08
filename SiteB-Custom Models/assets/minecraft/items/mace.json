@@ -20,8 +20,34 @@
             ]
           },
           "model": {
-            "type": "minecraft:model",
-            "model": "item/weapons/mace/ban_hammer"
+            "type": "minecraft:select",
+            "property": "minecraft:component",
+            "component": "minecraft:lore",
+            "cases": [
+              {
+                "when": [
+                  {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "Staff Only",
+                        "type": "text",
+                        "color": "dark_red",
+                        "bold": false,
+                        "italic": false,
+                        "underlined": false,
+                        "strikethrough": false,
+                        "obfuscated": false
+                      }
+                    ]
+                  }
+                ],
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/weapons/mace/ban_hammer"
+                }
+              }
+            ]
           }
         },
         {

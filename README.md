@@ -33,6 +33,7 @@ _Texturepack is made of models from many people all credits are in JSON file for
 	Rename Netherite sword to
 		- Orphan Obliterator - technoblade sword
 		- Bebra - Berserk sword
+		- Dark Souls Sword
     
 #### Command Staff:
 	Only Dino can contain its power.

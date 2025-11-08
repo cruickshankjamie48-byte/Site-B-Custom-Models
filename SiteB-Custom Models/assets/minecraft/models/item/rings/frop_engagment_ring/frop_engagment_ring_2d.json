@@ -1,0 +1,8 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Created by Unorth",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/rings/frop_engagment_ring/frop_engagment_ring_2d"
+	}
+}

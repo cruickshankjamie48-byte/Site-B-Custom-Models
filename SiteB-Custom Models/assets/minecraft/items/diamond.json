@@ -5,7 +5,6 @@
     "component": "custom_name",
     "on_true": {
       "type": "select",
-      "model": "item/diamond",
       "property": "component",
       "component": "custom_name",
       "cases": [
@@ -18,8 +17,7 @@
         },
         {
           "when": [
-            "Leon & I Ring",
-            "NCat & I Ring"
+            "Leon & I Ring"
           ],
           "model": {
             "type": "minecraft:select",
@@ -40,7 +38,138 @@
                 ],
                 "model": {
                   "type": "minecraft:model",
-                  "model": "item/rings/leo_ncat_rings"
+                  "model": "item/rings/leo_ncat_rings_ncat_ver"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/diamond"
+            }
+          }
+        },
+        {
+          "when": "NCat & I Ring",
+          "model": {
+            "type": "minecraft:select",
+            "property": "minecraft:component",
+            "component": "minecraft:lore",
+            "cases": [
+              {
+                "when": [
+                  {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "leoncat<3",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ],
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/rings/leo_ncat_rings_leon_ver"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "item/diamond"
+            }
+          }
+        },
+        {
+          "when": "Engagement Ring",
+          "model": {
+            "type": "minecraft:select",
+            "property": "minecraft:component",
+            "component": "minecraft:lore",
+            "cases": [
+              {
+                "when": [
+                  {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "My heart laid bare",
+                        "type": "text",
+                        "color": "dark_purple",
+                        "bold": false,
+                        "italic": true,
+                        "underlined": false,
+                        "strikethrough": false,
+                        "obfuscated": false
+                      }
+                    ]
+                  }
+                ],
+                "model": {
+                  "type": "minecraft:select",
+                  "property": "minecraft:display_context",
+                  "cases": [
+                    {
+                      "when": "gui",
+                      "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/rings/frop_engagment_ring/frop_engagment_ring_2d"
+                      }
+                    }
+                  ],
+                  "fallback": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/rings/frop_engagment_ring/frop_engagment_ring"
+                  }
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/diamond"
+            }
+          }
+        },
+        {
+          "when": "Wedding Band",
+          "model": {
+            "type": "minecraft:select",
+            "property": "minecraft:component",
+            "component": "minecraft:lore",
+            "cases": [
+              {
+                "when": [
+                  {
+                    "text": "",
+                    "extra": [
+                      {
+                        "text": "Proof of eternal love",
+                        "type": "text",
+                        "color": "dark_purple",
+                        "bold": false,
+                        "italic": true,
+                        "underlined": false,
+                        "strikethrough": false,
+                        "obfuscated": false
+                      }
+                    ]
+                  }
+                ],
+                "model": {
+                  "type": "minecraft:select",
+                  "property": "minecraft:display_context",
+                  "cases": [
+                    {
+                      "when": "gui",
+                      "model": {
+                        "type": "minecraft:model",
+                        "model": "minecraft:item/rings/fropmark_wedding_ring/fropmark_wedding_ring_2d"
+                      }
+                    }
+                  ],
+                  "fallback": {
+                    "type": "minecraft:model",
+                    "model": "minecraft:item/rings/fropmark_wedding_ring/fropmark_wedding_ring"
+                  }
                 }
               }
             ],
