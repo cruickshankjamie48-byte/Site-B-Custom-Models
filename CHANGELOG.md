@@ -58,12 +58,12 @@ _- Pack Icon now has SiteB logo_
 
 ### Fixed
 - Leon's Ring to fit his skin
-- some texture errors on vanillia items
+- some texture errors on vanilla items
 
 ### Changed
-- Ban Hammer requirments to include Lore
+- Ban Hammer requirements to include Lore
 
-### Added (was adding these befre i noticed the bug so they getting added early)
+### Added (was adding these before I noticed the bug so they getting added early)
 - Strawberry Milk Bucket
 - Chocolate Milk Bucket
-- Suprise item that will be updated later
+- Surprise item that will be updated later
