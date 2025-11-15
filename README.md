@@ -69,6 +69,10 @@ _Texturepack is made of models from many people all credits are in JSON file for
 	Rename golden carror to
 		-Borger
 
+#### Hot Coco
+	Rename Honey bottle to
+		-Hot Coco
+
 
 ### Statues/plushies/pets
 
@@ -109,6 +113,8 @@ _Texturepack is made of models from many people all credits are in JSON file for
 		- VV Castle In The Hills
 		- VV Establishing Shot 1
 		- Dino Bathwater
+		- Bruni Cute
+		- Bruni Meme
 
 ### Hats
 	Rename paper to:
