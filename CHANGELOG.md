@@ -78,6 +78,6 @@ _- Pack Icon now has SiteB logo_
 - Hot Coco
 - Jesus, technoblade and otter are avaliable as options for shrink nugget
 
-### Change
+### Changed
 - Frop's Sword Texture (reduce file size)
 - Dark Souls Sword (reduce file size)
