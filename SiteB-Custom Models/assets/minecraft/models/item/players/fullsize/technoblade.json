@@ -1,0 +1,10 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"parent": "item/players/template_models/wide_player_item",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "item/players/technoblade",
+		"particle": "item/players/technoblade"
+	}
+}

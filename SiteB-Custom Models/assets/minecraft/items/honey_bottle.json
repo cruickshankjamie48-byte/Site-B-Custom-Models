@@ -35,6 +35,13 @@
             "type": "minecraft:model",
             "model": "minecraft:item/food/drinks/beer_wheat"
           }
+        },
+        {
+          "when": "Hot Coco",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/food/drinks/hot_coco_marshmellows"
+          }
         }
       ],
       "fallback": {

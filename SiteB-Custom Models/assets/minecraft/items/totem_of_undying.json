@@ -630,6 +630,20 @@
             "type": "minecraft:model",
             "model": "item/plushies/plushie_copper_golem_standing"
           }
+        },
+        {
+          "when": "Onix",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/pokemon/onix"
+          }
+        },
+        {
+          "when": "Player Model Technoblade",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/players/fullsize/technoblade"
+          }
         }
       ],
       "fallback": {

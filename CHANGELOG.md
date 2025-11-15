@@ -54,7 +54,7 @@ _- Pack Icon now has SiteB logo_
 ### Fixed
 - SpyGlass Texture not rendering as 3D when being used
 
-## [  v0.3.1] - 08-11-2025
+## [v0.3.1] - 08-11-2025
 
 ### Fixed
 - Leon's Ring to fit his skin
@@ -67,3 +67,17 @@ _- Pack Icon now has SiteB logo_
 - Strawberry Milk Bucket
 - Chocolate Milk Bucket
 - Surprise item that will be updated later
+
+## [v0.4.0] -
+
+### Added
+- Onix
+- Technoblade Player model
+- Bruni Cute Painting
+- Bruni Meme Painting
+- Hot Coco
+- Jesus, technoblade and otter are avaliable as options for shrink nugget
+
+### Change
+- Frop's Sword Texture (reduce file size)
+- Dark Souls Sword (reduce file size)

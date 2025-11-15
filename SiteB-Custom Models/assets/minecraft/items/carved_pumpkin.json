@@ -84,6 +84,20 @@
             "type": "minecraft:model",
             "model": "item/paintings/1x2/dino_painting2"
           }
+        },
+        {
+          "when": "Painting Bruni Cute",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/paintings/1x1/bruni_cute"
+          }
+        },
+        {
+          "when": "Painting Bruni Meme",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/paintings/1x1/bruni_discord"
+          }
         }
       ],
       "fallback": {
