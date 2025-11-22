@@ -74,6 +74,11 @@ _Texturepack is made of models from many people all credits are in JSON file for
 	Rename Honey bottle to
 		-Hot Coco
 
+#### Ginger Bread Cookies
+	Rename cookies to
+		-Gingerbread Man
+		-Gingerbread Tree
+
 
 ### Statues/plushies/pets
 
