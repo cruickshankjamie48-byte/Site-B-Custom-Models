@@ -79,6 +79,10 @@ _Texturepack is made of models from many people all credits are in JSON file for
 		-Gingerbread Man
 		-Gingerbread Tree
 
+#### Candy Canes
+	Rename Golden Carrots to
+		- Candy Cane
+
 
 ### Statues/plushies/pets
 
