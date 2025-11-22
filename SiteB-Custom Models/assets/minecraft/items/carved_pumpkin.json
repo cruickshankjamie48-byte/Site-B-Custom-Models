@@ -98,6 +98,20 @@
             "type": "minecraft:model",
             "model": "item/paintings/1x1/bruni_discord"
           }
+        },
+        {
+          "when": "Painting Dino Nude",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/paintings/3x3/dino_nude"
+          }
+        },
+        {
+          "when": "Painting User Wild",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/paintings/3x3/user_wild"
+          }
         }
       ],
       "fallback": {

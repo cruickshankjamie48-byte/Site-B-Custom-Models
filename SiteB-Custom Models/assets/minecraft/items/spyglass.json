@@ -25,6 +25,87 @@
           "type": "minecraft:model",
           "model": "item/smokes/sigar_ekima"
         }
+      },
+      {
+        "when": "Binoculars",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": "thirdperson_lefthand",
+              "model": {
+                "type": "minecraft:select",
+                "property": "minecraft:display_context",
+                "cases": [
+                  {
+                    "when": [
+                      "gui",
+                      "fixed",
+                      "head",
+                      "ground"
+                    ],
+                    "model": {
+                      "type": "minecraft:condition",
+                      "property": "minecraft:using_item",
+                      "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/misc/binoculars/binoculars_left"
+                      },
+                      "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/misc/binoculars/binoculars_left"
+                      }
+                    }
+                  }
+                ],
+                "fallback": {
+                  "type": "minecraft:model",
+                  "model": "item/misc/binoculars/binoculars_left"
+                }
+              }
+            },
+            {
+              "when": [
+                "thirdperson_righthand"
+              ],
+              "model": {
+                "type": "minecraft:select",
+                "property": "minecraft:display_context",
+                "cases": [
+                  {
+                    "when": [
+                      "gui",
+                      "fixed",
+                      "head",
+                      "ground"
+                    ],
+                    "model": {
+                      "type": "minecraft:condition",
+                      "property": "minecraft:using_item",
+                      "on_true": {
+                        "type": "minecraft:model",
+                        "model": "item/misc/binoculars/binoculars_right"
+                      },
+                      "on_false": {
+                        "type": "minecraft:model",
+                        "model": "item/misc/binoculars/binoculars_right"
+                      }
+                    }
+                  }
+                ],
+                "fallback": {
+                  "type": "minecraft:model",
+                  "model": "item/misc/binoculars/binoculars_left"
+                }
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "item/misc/binoculars/binoculars_right"
+          }
+        }
       }
     ],
     "fallback": {

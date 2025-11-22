@@ -141,6 +141,13 @@
             "type": "minecraft:model",
             "model": "minecraft:item/weapons/netherite_sword/customswords/players_dark_soul_sword"
           }
+        },
+        {
+          "when": "Big Arms",
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/netherite_sword/customswords/invisible_sword"
+          }
         }
       ],
       "fallback": {
