@@ -34,6 +34,7 @@ _Texturepack is made of models from many people all credits are in JSON file for
 		- Orphan Obliterator - technoblade sword
 		- Bebra - Berserk sword
 		- Dark Souls Sword
+		- Big Arms (Invisble Sword)
     
 #### Command Staff:
 	Only Dino can contain its power.
@@ -115,6 +116,8 @@ _Texturepack is made of models from many people all credits are in JSON file for
 		- Dino Bathwater
 		- Bruni Cute
 		- Bruni Meme
+		- User Wild
+		- Dino Nude
 
 ### Hats
 	Rename paper to:
@@ -148,3 +151,4 @@ _Texturepack is made of models from many people all credits are in JSON file for
 #### Misc:
 	Scroll of Icarian Flight
 	Livi Hearts (get em from livi)
+	Binoculars (Rename Spy Glass)
