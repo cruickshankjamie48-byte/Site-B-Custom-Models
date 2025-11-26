@@ -16,10 +16,38 @@
           }
         },
         {
-          "when": "Green Present",
+          "when": "Large Green Present",
           "model": {
             "type": "minecraft:model",
-            "model": "item/deco/christmas/green_present"
+            "model": "item/deco/christmas/presents/large/green_present"
+          }
+        },
+        {
+          "when": "Small Green Present",
+          "model": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:bundle/fullness",
+            "scale": 64,
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/deco/christmas/presents/small/green_gift_empty"
+                }
+              },
+              {
+                "threshold": 1,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/deco/christmas/presents/small/green_gift"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/green_bundle"
+            }
           }
         }
       ],

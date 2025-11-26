@@ -66,7 +66,7 @@ _- Pack Icon now has SiteB logo_
 ### Added (was adding these before I noticed the bug so they getting added early)
 - Strawberry Milk Bucket
 - Chocolate Milk Bucket
-- Surprise item that will be updated later
+- Frop's Engagment Ring
 
 ## [v0.4.0] - 15-11-2025
 
@@ -91,3 +91,15 @@ _- Pack Icon now has SiteB logo_
 - Dino Nude Painting
 - User Wild Painting
 - Binoculars (Ohly works in right hand)
+
+## [v0.5.1] - 26-11-2025
+
+Updated for items to be added to match up with event
+
+###  Added
+- Frop and Mark Wedding Models
+- Small Christmas Present (each bundles colour)
+- Large Christmas Present (some bundle colours adding more as we get closer to christmas)
+
+### Change
+- Reduced textures sizes

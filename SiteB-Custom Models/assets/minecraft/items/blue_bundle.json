@@ -16,10 +16,38 @@
           }
         },
         {
-          "when": "Blue Present",
+          "when": "Large Blue Present",
           "model": {
             "type": "minecraft:model",
-            "model": "item/deco/christmas/blue_present"
+            "model": "item/deco/christmas/presents/large/blue_present"
+          }
+        },
+        {
+          "when": "Small Blue Present",
+          "model": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:bundle/fullness",
+            "scale": 64,
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/deco/christmas/presents/small/blue_gift_empty"
+                }
+              },
+              {
+                "threshold": 1,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/deco/christmas/presents/small/blue_gift"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/blue_bundle"
+            }
           }
         }
       ],

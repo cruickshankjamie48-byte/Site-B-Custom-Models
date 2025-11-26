@@ -1,0 +1,50 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "property": "minecraft:has_component",
+    "component": "minecraft:custom_name",
+    "on_true": {
+      "type": "minecraft:select",
+      "property": "minecraft:component",
+      "component": "minecraft:custom_name",
+      "cases": [
+        {
+          "when": "Small Light Blue Present",
+          "model": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:bundle/fullness",
+            "scale": 64,
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/deco/christmas/presents/small/light_blue_gift_empty"
+                }
+              },
+              {
+                "threshold": 1,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/deco/christmas/presents/small/light_blue_gift"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/light_blue_bundle"
+            }
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/light_blue_bundle"
+      }
+    },
+    "on_false": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/light_blue_bundle"
+    }
+  }
+}

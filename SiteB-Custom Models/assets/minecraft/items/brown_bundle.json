@@ -14,6 +14,35 @@
             "type": "minecraft:model",
             "model": "minecraft:item/bundles/halloween/drowned_goodie_bag"
           }
+        },
+        {
+          "when": "Small Brown Present",
+          "model": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:bundle/fullness",
+            "scale": 64,
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/deco/christmas/presents/small/brown_gift_empty",
+                  "tints": []
+                }
+              },
+              {
+                "threshold": 1,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/deco/christmas/presents/small/brown_gift"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/brown_bundle"
+            }
+          }
         }
       ],
       "fallback": {

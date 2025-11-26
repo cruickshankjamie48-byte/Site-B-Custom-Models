@@ -14,6 +14,34 @@
             "type": "minecraft:model",
             "model": "minecraft:item/bundles/halloween/zombie_goodie_bag"
           }
+        },
+        {
+          "when": "Small Black Present",
+          "model": {
+            "type": "minecraft:range_dispatch",
+            "property": "minecraft:bundle/fullness",
+            "scale": 64,
+            "entries": [
+              {
+                "threshold": 0,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/deco/christmas/presents/small/black_gift_empty"
+                }
+              },
+              {
+                "threshold": 1,
+                "model": {
+                  "type": "minecraft:model",
+                  "model": "item/deco/christmas/presents/small/black_gift"
+                }
+              }
+            ],
+            "fallback": {
+              "type": "minecraft:model",
+              "model": "minecraft:item/black_bundle"
+            }
+          }
         }
       ],
       "fallback": {
