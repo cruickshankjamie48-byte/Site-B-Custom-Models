@@ -656,7 +656,7 @@
           "when": "Plushie LeonSKennedy",
           "model": {
             "type": "minecraft:model",
-            "model": "item/players/player_plushies/leon_s_wave"
+            "model": "item/players/player_plushies/leon_s"
           }
         }
       ],

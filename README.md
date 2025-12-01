@@ -112,7 +112,11 @@ _Texturepack is made of models from many people all credits are in JSON file for
 
 
 #### Paintings:
-	Rename a carved pumpkin and name it Painting then any the below paintings
+	Enter into a book and quill in this format do not sign the book
+		Painting
+		<painting Name>
+
+		Painting Names:
 		- Harry Banana
 		- Livi Duck
 		- Dino

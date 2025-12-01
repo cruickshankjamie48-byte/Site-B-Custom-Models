@@ -109,3 +109,7 @@ Updated for items to be added to match up with event
 ### Added
 - Peter Griffin Totem
 - Secrets you should ask Zoli about
+- Custom Trident for Xonnie
+
+### Chnaged
+- Paintings now work from book and Quill (Old paintings will need updated from carved pumpkins)
