@@ -1,6 +1,6 @@
 {
 	"format_version": "1.21.6",
-	"credit": "Made with Blockbench",
+	"credit": "Made by sketchmacaw",
 	"parent": "item/deco/christmas/presents/large/present",
 	"textures": {
 		"0": "item/deco/christmas/present/large/cyan/red_ribbon",

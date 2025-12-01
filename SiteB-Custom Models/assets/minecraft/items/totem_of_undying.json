@@ -198,7 +198,7 @@
           }
         },
         {
-          "when": "Plushie frog",
+          "when": "Plushie Frog",
           "model": {
             "type": "minecraft:model",
             "model": "minecraft:item/plushies/plushie_frog"
@@ -643,6 +643,20 @@
           "model": {
             "type": "minecraft:model",
             "model": "item/players/fullsize/technoblade"
+          }
+        },
+        {
+          "when": "Peter Griffin",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/totem/peterg"
+          }
+        },
+        {
+          "when": "LeonSKennedy",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/player/player_plushies/leon_s"
           }
         }
       ],

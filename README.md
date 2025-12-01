@@ -148,6 +148,7 @@ _Texturepack is made of models from many people all credits are in JSON file for
 		- Jesus <3 to get Jesus to protect you
 		- Tank to get a Tank
 		- Technoblade to get Technoblade
+		- Peter Griffin
 
 #### Smokes:
 	Rename Spyglass to
