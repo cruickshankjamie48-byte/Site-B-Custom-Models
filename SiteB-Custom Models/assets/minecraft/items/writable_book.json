@@ -3531,7 +3531,7 @@
               ],
               "model": {
                 "type": "minecraft:model",
-                "model": "item/players/player_plushies/pippin_wave"
+                "model": "item/players/player_plushies/display/pippin_wave"
               }
             }
           ],
@@ -3574,7 +3574,7 @@
               ],
               "model": {
                 "type": "minecraft:model",
-                "model": "item/players/player_plushies/gollum"
+                "model": "item/players/player_plushies/display/gollum"
               }
             }
           ],

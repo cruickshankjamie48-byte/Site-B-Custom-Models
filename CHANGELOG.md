@@ -104,7 +104,7 @@ Updated for items to be added to match up with event
 ### Change
 - Reduced textures sizes
 
-## [0.6.0] - 01-12-2025
+## [0.6.0] - 06-12-2025
 
 ### Added
 - Peter Griffin Totem
@@ -113,7 +113,7 @@ Updated for items to be added to match up with event
 - Admin Book (for Mods and Admins and trusted people to view all models in the pack whenever they like)
 - Purple Guy Plushie
 - Livi Duck Plushie
-- Livi Plushie
+- Livi Postal Plushie
 - Dino Plushie
 - Big Cake
 
