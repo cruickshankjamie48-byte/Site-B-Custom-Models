@@ -94,6 +94,11 @@ _Texturepack is made of models from many people all credits are in JSON file for
 		- bluU pupU - Livi pet chicken
 		- there are hidden plushies aswell try pop culture charcters/animals and you might strike lucky
 
+	You can also type into a book and quill like so:
+		Plushie
+		<Name with capital>
+		<Action (for player plushies)>
+
 
 #### Pets:
 	Rename Totem of Undying to
@@ -169,3 +174,8 @@ _Texturepack is made of models from many people all credits are in JSON file for
 	Scroll of Icarian Flight
 	Livi Hearts (get em from livi)
 	Binoculars (Rename Spy Glass)
+
+### Decorations:
+	Snowman with Pan - in a book and quill right in this format
+		Christmas
+		Snowman With Pan

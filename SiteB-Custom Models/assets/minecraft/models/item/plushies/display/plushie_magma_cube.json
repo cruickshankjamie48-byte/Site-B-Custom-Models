@@ -1,0 +1,72 @@
+{
+	"credit": "Made by Nog's Menagerie",
+	"texture_size": [32, 32],
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"0": "item/plushies/plushie_magma_cube_texture",
+		"particle": "item/plushies/plushie_magma_cube_texture"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [3, 0, 3],
+			"to": [13, 10, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 6.26387, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 5], "texture": "#0"},
+				"east": {"uv": [0, 5, 5, 10], "texture": "#0"},
+				"south": {"uv": [5, 0, 10, 5], "texture": "#0"},
+				"west": {"uv": [5, 5, 10, 10], "texture": "#0"},
+				"up": {"uv": [5, 15, 0, 10], "texture": "#0"},
+				"down": {"uv": [15, 0, 10, 5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [2, 138, 0],
+			"translation": [0, 5.75, 1.25],
+			"scale": [0.86, 0.86, 0.86]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [2, 132, 0],
+			"translation": [0, 5.75, 1.25],
+			"scale": [0.86, 0.86, 0.86]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 109, 5],
+			"translation": [1.75, 7, 0],
+			"scale": [0.92, 0.92, 0.92]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 109, 5],
+			"translation": [1.75, 7, 0],
+			"scale": [0.92, 0.92, 0.92]
+		},
+		"ground": {
+			"translation": [0, 3.5, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"gui": {
+			"rotation": [25, 151, 0],
+			"translation": [0.25, 4, 0],
+			"scale": [0.93, 0.93, 0.93]
+		},
+		"head": {
+			"translation": [0, 14.4, 0]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -13.75],
+			"scale": [1.7, 1.7, 1.7]
+		}
+	},
+	"groups": [
+		{
+			"name": "nm_plushie_magma_cube",
+			"origin": [8, 8, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}

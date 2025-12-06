@@ -1,10 +1,65 @@
 {
 	"format_version": "1.21.6",
 	"credit": "Made by FropDrop",
-	"parent": "item/paintings/1x1/template/1x1_painting_template",
-	"texture_size": [256, 256],
+	"parent": "item/paintings/1x1/template",
+	"texture_size": [32, 32],
 	"textures": {
 		"0": "item/paintings/1x1/livi_duck",
 		"particle": "item/paintings/1x1/livi_duck"
+	},
+	"elements": [
+		{
+			"from": [16, 0, 8],
+			"to": [0, 16, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#back"},
+				"east": {"uv": [15.5, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.5, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0.5], "texture": "#0"},
+				"down": {"uv": [0, 15.5, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [0.43, 0.43, 0.43]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [0, 2.25, 0],
+			"scale": [0.43, 0.43, 0.43]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, -180, 0],
+			"translation": [1.25, 3.25, 0],
+			"scale": [0.46, 0.46, 0.46]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [1.25, 3.25, 0],
+			"scale": [0.46, 0.46, 0.46]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.67, 0.67, 0.67]
+		},
+		"gui": {
+			"rotation": [0, 152, 0],
+			"scale": [0.78, 0.78, 0.78]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 6.5, 0]
+		},
+		"fixed": {
+			"scale": [2, 2, 2]
+		},
+		"on_shelf": {
+			"rotation": [0, 180, 0]
+		}
 	}
 }

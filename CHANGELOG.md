@@ -110,6 +110,17 @@ Updated for items to be added to match up with event
 - Peter Griffin Totem
 - Secrets you should ask Zoli about
 - Custom Trident for Xonnie
+- Admin Book (for Mods and Admins and trusted people to view all models in the pack whenever they like)
+- Purple Guy Plushie
+- Livi Duck Plushie
+- Livi Plushie
+- Dino Plushie
+- Big Cake
+
 
 ### Chnaged
 - Paintings now work from book and Quill (Old paintings will need updated from carved pumpkins)
+- Plushies now have to version totem plushies that are designed for looking nice when popped and in your hotbar and display plushies which work by using the book and quill
+- Hats can now also be made using book and quill, paper will still be an option if you are wanting a more permant hat
+- Christmas Decoration moved yo book (excluding presents)
+-Pack optimzations

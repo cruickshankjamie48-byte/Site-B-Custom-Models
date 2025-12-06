@@ -1,0 +1,49 @@
+{
+	"parent": "item/paintings/template",
+	"textures": {
+		"back": "item/paintings/2x3/back"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.75, 0, 0],
+			"scale": [0.23, 0.23, 0.23]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 90, 0],
+			"translation": [-0.75, 0, 0],
+			"scale": [0.23, 0.23, 0.23]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [1, 1.75, 0],
+			"scale": [0.19, 0.19, 0.19]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, -180, 0],
+			"translation": [1, 1.75, 0],
+			"scale": [0.19, 0.19, 0.19]
+		},
+		"ground": {
+			"translation": [0, 2, 0],
+			"scale": [0.23, 0.23, 0.23]
+		},
+		"gui": {
+			"rotation": [0, 180, 0],
+			"translation": [0, -2.5, 0],
+			"scale": [0.27, 0.27, 0.27]
+		},
+		"head": {
+			"rotation": [90, 0, 0],
+			"translation": [0, 6.25, -6]
+		},
+		"fixed": {
+			"translation": [-64, 8, 0],
+			"scale": [3.34, 3, 3.32]
+		},
+		"on_shelf": {
+			"rotation": [0, 180, 0],
+			"scale": [0.37, 0.37, 0.37]
+		}
+	}
+}

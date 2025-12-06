@@ -63,10 +63,49 @@
         }
       },
       {
-        "when": "Snowman With Pan",
+        "when": "Pippin",
         "model": {
-          "type": "minecraft:model",
-          "model": "item/deco/christmas/snowman_with_pan"
+          "type": "minecraft:select",
+          "property": "minecraft:component",
+          "component": "minecraft:lore",
+          "cases": [
+            {
+              "when": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "IT COMES IN PINTS?",
+                      "type": "text",
+                      "color": "#e88411",
+                      "bold": false,
+                      "italic": false,
+                      "underlined": false,
+                      "strikethrough": false,
+                      "obfuscated": false
+                    }
+                  ]
+                }
+              ],
+              "model": {
+                "type": "minecraft:condition",
+                "property": "minecraft:keybind_down",
+                "keybind": "key.playerlist",
+                "on_true": {
+                  "type": "minecraft:model",
+                  "model": "item/players/player_plushies/gollum"
+                },
+                "on_false": {
+                  "type": "minecraft:model",
+                  "model": "item/players/player_plushies/pippin_wave"
+                }
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/paper"
+          }
         }
       }
     ],

@@ -1,0 +1,23 @@
+{
+	"parent": "item/paintings/2x3/template",
+	"texture_size": [192, 128],
+	"textures": {
+		"0": "item/paintings/2x3/vanda_town",
+		"particle": "item/paintings/2x3/vanda_town"
+	},
+	"elements": [
+		{
+			"from": [32, 0, 8],
+			"to": [-16, 32, 7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#back"},
+				"east": {"uv": [15.95833, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0.04167, 16], "texture": "#0"},
+				"up": {"uv": [0, 0, 16, 0.0625], "texture": "#0"},
+				"down": {"uv": [0, 15.9375, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}
