@@ -104,7 +104,7 @@ Updated for items to be added to match up with event
 ### Change
 - Reduced textures sizes
 
-## [0.6.0] - 06-12-2025
+## [0.6.0] - 01-12-2025
 
 ### Added
 - Peter Griffin Totem
@@ -113,7 +113,7 @@ Updated for items to be added to match up with event
 - Admin Book (for Mods and Admins and trusted people to view all models in the pack whenever they like)
 - Purple Guy Plushie
 - Livi Duck Plushie
-- Livi Postal Plushie
+- Livi Plushie
 - Dino Plushie
 - Big Cake
 
@@ -124,3 +124,18 @@ Updated for items to be added to match up with event
 - Hats can now also be made using book and quill, paper will still be an option if you are wanting a more permant hat
 - Christmas Decoration moved yo book (excluding presents)
 -Pack optimzations
+
+## [0.7.0] - 21-12-2025
+
+### Added
+- Clock custom model components (experimental)
+- Zoli Plushies
+- Harry Plushies
+- User Plushier
+- Bruno Cnady Cane
+- Raindeer Antlers
+- Rudoplh Nose
+- Santa Hat
+
+### Fixed
+- Missing Painting Textures

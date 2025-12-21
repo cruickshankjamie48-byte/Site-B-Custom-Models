@@ -107,6 +107,13 @@
             "model": "minecraft:item/paper"
           }
         }
+      },
+      {
+        "when": "Okay",
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/misc/okie"
+        }
       }
     ],
     "property": "component",

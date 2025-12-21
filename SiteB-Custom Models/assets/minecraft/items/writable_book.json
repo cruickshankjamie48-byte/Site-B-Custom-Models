@@ -3752,6 +3752,283 @@
           "type": "minecraft:model",
           "model": "item/players/player_plushies/display/dino/dino_sit"
         }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nZoli Winter\nWave"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/zoli_casual/zoli_casual_wave"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nZoli Winter\nStand"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/zoli_casual/zoli_casual"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nZoli Winter\nSit"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/zoli_casual/zoli_casual_sit"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nZoli Casual\nWave"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/zoli_winter/zoli_winter_wave"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nZoli Casual\nStand"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/zoli_winter/zoli_winter"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nZoli Casual\nSit"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/zoli_winter/zoli_winter_sit"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nHarry Nude\nWave"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/harry_nude/harry_nude_wave"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nHarry Nude\nStand"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/harry_nude/harry_nude"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nHarry Nude\nSit"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/harry_nude/harry_nude_sit"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nHarry Lumberjack\nWave"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/harry_lumberjack/harry_lumberjack_wave"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nHarry Lumberjack\nStand"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/harry_lumberjack/harry_lumberjack"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nHarry Lumberjack\nSit"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/harry_lumberjack/harry_lumberjack_sit"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nUser\nWave"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/user/user_wave"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nUser\nStand"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/user/user"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Plushie\nUser\nSit"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/players/player_plushies/display/user/user_sit"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Hats\nReindeer Antlers"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/reindeer_antlers"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Hats\nRudolph Nose"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/rudolph_nose"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Hats\nSanta Hat"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/hats/santa_hat"
+        }
+      },
+      {
+        "when": {
+          "pages": [
+            {
+              "raw": "Food\nBruno Candy Cane"
+            }
+          ]
+        },
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:component",
+          "component": "minecraft:lore",
+          "cases": [
+            {
+              "when": [
+                {
+                  "text": "",
+                  "extra": [
+                    {
+                      "text": "Admin Book",
+                      "type": "text",
+                      "color": "dark_red",
+                      "bold": false,
+                      "italic": false,
+                      "underlined": false,
+                      "strikethrough": false,
+                      "obfuscated": false
+                    }
+                  ]
+                }
+              ],
+              "model": {
+                "type": "minecraft:model",
+                "model": "item/food/candy_cane_bruno"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/writable_book"
+          }
+        }
       }
     ],
     "fallback": {

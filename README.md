@@ -82,6 +82,7 @@ _Texturepack is made of models from many people all credits are in JSON file for
 #### Candy Canes
 	Rename Golden Carrots to
 		- Candy Cane
+		- Bruno Cnady Cane
 
 
 ### Statues/plushies/pets
@@ -145,6 +146,9 @@ _Texturepack is made of models from many people all credits are in JSON file for
 		-Jester Hat
 		-Miin Frog Friend
 		-Fox King Crown
+		- Raindeer Antlers
+		- Rudoplh Nose
+		- Santa Hat
 
 ### Custom Item Textures
 

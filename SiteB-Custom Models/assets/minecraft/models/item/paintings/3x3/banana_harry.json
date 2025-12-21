@@ -5,7 +5,8 @@
 	"texture_size": [192, 192],
 	"textures": {
 		"0": "item/paintings/3x3/banana_harry",
-		"particle": "item/paintings/3x3/banana_harry"
+		"particle": "item/paintings/3x3/banana_harry",
+		"back": "item/paintings/3x3/back"
 	},
 	"elements": [
 		{
@@ -34,7 +35,7 @@
 			"scale": [0.16, 0.16, 0.16]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 180, 0],
+			"rotation": [0, -180, 0],
 			"translation": [9.5, 0.25, -8],
 			"scale": [0.26, 0.26, 0.26]
 		},

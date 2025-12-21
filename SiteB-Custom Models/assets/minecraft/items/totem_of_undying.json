@@ -658,6 +658,13 @@
             "type": "minecraft:model",
             "model": "item/players/player_plushies/totem/leon_s_wave"
           }
+        },
+        {
+          "when": "Plushie Zoli",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/players/player_plushies/totem/zoli_casual_sit"
+          }
         }
       ],
       "fallback": {

@@ -43,6 +43,13 @@
             "type": "minecraft:model",
             "model": "item/food/candy_cane"
           }
+        },
+        {
+          "when": "Candy Cane Bruno",
+          "model": {
+            "type": "minecraft:model",
+            "model": "item/food/candy_cane_bruno"
+          }
         }
       ],
       "fallback": {
