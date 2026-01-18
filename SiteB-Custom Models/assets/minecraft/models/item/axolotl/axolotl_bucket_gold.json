@@ -1,7 +1,0 @@
-{
-  "credit": "Made by Roundaround",
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/axolotl/axolotl_bucket_gold"
-  }
-}

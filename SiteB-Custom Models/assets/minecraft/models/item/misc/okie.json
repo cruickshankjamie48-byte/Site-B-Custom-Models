@@ -1,8 +1,0 @@
-{
-	"format_version": "1.21.11",
-	"credit": "Created by pezpizza",
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/misc/okie"
-	}
-}

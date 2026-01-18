@@ -1,7 +1,0 @@
-{
-	"credit": "Created by pitsvictorysong and modified by pezpizza",
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/food/drinks/chocolate_milk_bucket"
-	}
-}

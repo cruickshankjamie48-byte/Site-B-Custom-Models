@@ -1,7 +1,0 @@
-{
-  "credit": "Made by ThePoupyBuTers and modified by pezpizza",
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "minecraft:item/food/christmas/ginman"
-  }
-}

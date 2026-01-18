@@ -1,7 +1,0 @@
-{
-	"credit": "Created by pitsvictorysong",
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/food/drinks/strawberry_milk_bucket"
-	}
-}

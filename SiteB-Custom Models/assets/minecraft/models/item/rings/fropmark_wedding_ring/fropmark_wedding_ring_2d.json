@@ -1,8 +1,0 @@
-{
-	"format_version": "1.21.6",
-	"credit": "Created by Unorth",
-	"parent": "item/generated",
-	"textures": {
-		"layer0": "item/rings/fropmark_wedding_ring/fropmark_wedding_ring_2d"
-	}
-}

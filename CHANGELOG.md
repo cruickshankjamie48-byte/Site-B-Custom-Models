@@ -139,3 +139,43 @@ Updated for items to be added to match up with event
 
 ### Fixed
 - Missing Painting Textures
+
+## [1.0.0] - 
+
+## S4 Pack Reset
+
+## Lite Version
+
+### Readded
+- Banana
+- Ban Hammer
+- Jesus
+- Small Presents
+- Plushies
+- Axolotl Variants in buckets
+
+### Added
+- Premium Banana
+- Additional New Plushies
+- Tropical fish variants in buckets
+- Salmon Size in buckets
+- Modified cloud texture
+- Happy Ghast Harness Hat
+- Banner Flags
+
+
+### Changed
+- Banana gui and eating model
+- Sizing of Mob Plushies
+
+### Fixed
+- Ban Hammer being smaller in offhand
+
+## Extra Version
+
+### Re-added:
+- Xonnie’s Trident (Only obtainable for Xonnie)
+
+### Added:
+- Turtle Elytra Wings
+- Master Chief Armour

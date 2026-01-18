@@ -1,7 +1,0 @@
-{
-  "credit": "Created by stefanj2_ from Stefan's armors 'N' items",
-  "parent": "minecraft:item/handheld",
-  "textures": {
-    "layer0": "minecraft:item/weapons/shroom_set/shroom_hoe"
-  }
-}
