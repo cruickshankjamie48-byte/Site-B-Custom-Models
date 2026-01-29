@@ -140,7 +140,7 @@ Updated for items to be added to match up with event
 ### Fixed
 - Missing Painting Textures
 
-## [1.0.0] - 
+## [1.0.0] - 18-01-2026
 
 ## S4 Pack Reset
 
@@ -179,3 +179,30 @@ Updated for items to be added to match up with event
 ### Added:
 - Turtle Elytra Wings
 - Master Chief Armour
+
+
+## [1.1.0] - 
+
+## Lite Version
+
+### Added:
+- Presents
+- Big Cake
+- Paintings
+
+### Changed:
+- Redcued texture sizes
+- Ban Hammer (Update to much changes made by dino)
+- Vote Note (Update to much changes made by dino)
+- Banana (Update to much changes made by dino)
+
+### Fixed
+- Presents rendering to high when on players head
+
+## Extra Version
+
+### Added:
+Gangly Man
+
+### Changed:
+-Redcued texture sizes
