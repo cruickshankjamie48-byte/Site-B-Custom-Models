@@ -181,7 +181,7 @@ Updated for items to be added to match up with event
 - Master Chief Armour
 
 
-## [1.1.0] - 
+## [1.1.0] - 29-01-2026
 
 ## Lite Version
 
@@ -189,12 +189,14 @@ Updated for items to be added to match up with event
 - Presents
 - Big Cake
 - Paintings
+- Fish Trophy
 
 ### Changed:
 - Redcued texture sizes
 - Ban Hammer (Update to much changes made by dino)
 - Vote Note (Update to much changes made by dino)
 - Banana (Update to much changes made by dino)
+- Refomatted Golden_carrot json for future proofing
 
 ### Fixed
 - Presents rendering to high when on players head
