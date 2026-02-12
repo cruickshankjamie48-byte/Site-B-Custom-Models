@@ -208,3 +208,23 @@ Gangly Man
 
 ### Changed:
 -Redcued texture sizes
+
+## [1.2.0] - 
+
+## Lite Version
+
+### Added:
+-Boat Painting
+-Forest Painting
+-Lonely Tree Painting
+-Starry Night Painting
+-Pyramid Painting
+-Villager Hat
+-Crimson Fungus Hat
+-Warped Fungus Hat
+-Red Mushroom Hat
+-Brown Mushroom Hat
+-Amongus Hat (all colours)  
+
+### Changed:
+-Removed unused code from writable_book json
