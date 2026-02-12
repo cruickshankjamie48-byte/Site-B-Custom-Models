@@ -209,7 +209,7 @@ Gangly Man
 ### Changed:
 -Redcued texture sizes
 
-## [1.2.0] - 
+## [1.2.0] - 12-02-2026
 
 ## Lite Version
 
