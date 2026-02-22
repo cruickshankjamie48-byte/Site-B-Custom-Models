@@ -229,3 +229,22 @@ Gangly Man
 ### Changed:
 -Removed unused code from writable_book json
 - Moved Big Cake into display_foods
+
+## [1.3.0] - 
+## Lite Version
+
+### Added:
+- Posters for frops shop
+- Top Hat (Any colour)
+- Saftey Hat (Any colour)
+- Chef Hat (Any Colours)
+- Trafiic Cone Hat
+- Plunger Hat
+- Toilet Paper Hat
+
+### Changed:
+- Banana Eating model on head to appear as a banana hat and tied it to Preumuim banana item
+
+### Fixed
+- Presents rendering to high when on players head (again)
+- 1x2 Painting being placed on wrong side of when in an item frame
