@@ -230,7 +230,7 @@ Gangly Man
 -Removed unused code from writable_book json
 - Moved Big Cake into display_foods
 
-## [1.3.0] - 
+## [1.3.0] - 22-02-2026
 ## Lite Version
 
 ### Added:
