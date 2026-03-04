@@ -248,3 +248,17 @@ Gangly Man
 ### Fixed
 - Presents rendering to high when on players head (again)
 - 1x2 Painting being placed on wrong side of when in an item frame
+
+## [1.4.0] - 04-03-2026
+## Lite Version
+
+### Added:
+- Gavel (for judge livi)
+- Safety Hat Gui spirit
+- Villager Hat Gui spirit
+- Bday hats (Assortment of colours, more in future)
+
+### Changed:
+- Safety Hat remodel
+- Vote Note texture (TBD)
+- reduce texture sizes (Hats/hats gui, Vote note?, Gavel, paintings)
