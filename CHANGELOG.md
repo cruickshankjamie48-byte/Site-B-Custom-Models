@@ -260,5 +260,26 @@ Gangly Man
 
 ### Changed:
 - Safety Hat remodel
-- Vote Note texture (TBD)
+- Vote Note texture
 - reduce texture sizes (Hats/hats gui, Vote note?, Gavel, paintings)
+
+## [1.5.0] - 
+## Lite Version
+
+### Added:
+- Koda Painting
+- October by Holliy Painting
+- Kidthony Painting
+- Bruni Painting
+- Wimu Painting
+
+### Changed:
+- Reworked banan_eating.json file to use less lines of code
+- Reworked axoltol in bucket textures to reduce size
+- Rework presents to add more colours using hue???
+
+### Fixed:
+- Safety Hat texture was odd number (this can cause funny issue with soduim)
+- Blue axolotol appeared as cyan in gui
+- Made all paintings match vanilla painting thickness
+
