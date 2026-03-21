@@ -263,23 +263,38 @@ Gangly Man
 - Vote Note texture
 - reduce texture sizes (Hats/hats gui, Vote note?, Gavel, paintings)
 
-## [1.5.0] - 
+## [1.5.0] - 14-03-2026
 ## Lite Version
 
 ### Added:
 - Koda Painting
 - October by Holliy Painting
 - Kidthony Painting
-- Bruni Painting
 - Wimu Painting
 
 ### Changed:
 - Reworked banan_eating.json file to use less lines of code
 - Reworked axoltol in bucket textures to reduce size
-- Rework presents to add more colours using hue???
 
 ### Fixed:
 - Safety Hat texture was odd number (this can cause funny issue with soduim)
 - Blue axolotol appeared as cyan in gui
 - Made all paintings match vanilla painting thickness
 
+## [1.6.0] - 21-03-2025
+## Lite Version
+
+### Added:
+- Baby Dragon Plushie
+- Bruni Painting
+- Build comp plushies
+
+
+## [1.7.0] - 
+## Lite Version
+
+### Added:
+- Crowns??
+- Flower Crowns??
+- Medals ??? (optimzie)
+- trophy plushies (optimize)
